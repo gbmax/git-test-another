@@ -2,6 +2,8 @@ team: tigers
 
 manager: John -> Donald 변경
 
+coach: Grace 추가
+
 members:
 - linda
 -william

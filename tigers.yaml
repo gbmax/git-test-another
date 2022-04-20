@@ -1,6 +1,6 @@
 team: tigers
 
-manager: John
+manager: John -> Donald 변경
 
 members:
 - linda
